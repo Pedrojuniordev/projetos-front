@@ -1,0 +1,12 @@
+footer{
+    background: rgb(53, 176, 197);
+    bottom: 0;
+}
+footer{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 12vh;
+position: absolute;
+width:100%
+}

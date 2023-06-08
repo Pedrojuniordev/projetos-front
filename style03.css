@@ -1,0 +1,16 @@
+H1{
+    text-align: center;
+    background: red;
+}
+footer{
+    background: red;
+    bottom: 0;
+}
+footer{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 12vh;
+position: absolute;
+width:100%
+}
